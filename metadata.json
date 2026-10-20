@@ -1,0 +1,8 @@
+{
+  "name": "Remix O Tinteiro - Artigos \u0026 Cartões Católicos",
+  "description": "Catálogo online de santinhos, cartões de oração e artigos artesanais católicos da marca O Tinteiro, com pedidos via WhatsApp e carrinho.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
